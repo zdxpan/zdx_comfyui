@@ -1,0 +1,42 @@
+dashscope
+flask
+websocket
+wget
+# server template
+# router service
+websocket
+# model related
+dotenv
+oss2 
+cos-python-sdk-v5
+#
+moviepy
+insightface
+ultralytics
+open-clip-torch==0.2.1
+mediapipe==0.10.5
+# groundingdino
+flask
+watchdog
+mmcv
+# tiktoken  #  fal_api
+pyamg
+opencv-contrib-python
+ultralytics>=8.2.0
+blend_modes
+onnxruntime
+protobuf
+inference-cli
+inference-gpu[yolo-world]
+transformers>=4.43.2
+opencv-contrib-python
+pymatting
+segment_anything
+timm
+PyWavelets
+
+
+# easy-dwpose --no-dependencies
+# pytorch_lightning
+# pip install easy-dwpose --no-dependencies
+# pip install -i https://pypi.tuna.tsinghua.edu.cn/simple scikit-image torchao colorama segment-anything hydra-core onnxruntime insightface openai deepdiff soundfile omegaconf  matplotlib accelerate facexlib librosa
